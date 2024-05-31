@@ -10,7 +10,7 @@ public class ImageManipulation {
      */
     public static void main(String[] args) {
         rotateImage("cyberpunk2077.jpg");
-
+//finish
     }
 
     /** CHALLENGE ONE: Grayscale
